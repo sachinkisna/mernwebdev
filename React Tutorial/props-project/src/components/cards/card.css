@@ -1,0 +1,22 @@
+.card{
+    width: 300px;
+    height: 400px;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.card img{
+    border-radius: 10px 10px 2px 2px;
+}
+
+.card h1{
+    font-size: 25px;
+    text-align: center;
+}.card h3{
+    font-size: 18px;
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+.div-box{
+  display: flex;
+  height: 200px;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: aqua;
+  color: black;
+}
